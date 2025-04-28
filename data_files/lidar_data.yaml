@@ -1,0 +1,13 @@
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  - pole
+
+path: ./lidar_dataset_links
+
+train: train
+val: valid
+test: test
+

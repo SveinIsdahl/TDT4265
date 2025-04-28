@@ -1,0 +1,12 @@
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  - pole
+
+path: /datasets/tdt4265/ad/open/Poles/rgb
+
+train: images/train
+val: images/valid
+test: images/test
